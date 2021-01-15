@@ -7,8 +7,9 @@ public class HelloWorld {
 	//FIXME
 
         System.out.println("TGIF");
-        //todo
-	    //Some irrelevant comment
+        /*todo
+	    Some irrelevant comment
+	    */
 
 
 
