@@ -6,6 +6,7 @@ public class HelloWorld {
 	System.out.println("Hello in JAVA world!");
 	//FIXME
     //todo
+        System.out.println("TGIF");
 
 
 
